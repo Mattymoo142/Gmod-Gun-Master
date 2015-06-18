@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\ak5c_bf4\line"
+	"$additive" "1"
+}

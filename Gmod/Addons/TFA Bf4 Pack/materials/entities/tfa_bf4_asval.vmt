@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "entities/tfa_bf4_asval"
+	"$vertexcolor" 		1 
+	"$vertexalpha" 		1 
+	"$nolod" 			1
+}

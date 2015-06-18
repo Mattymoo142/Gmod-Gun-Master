@@ -1,0 +1,17 @@
+"gmodgg"
+{
+	"base"		"sandbox"
+    "title"  "Gmod Gun Master"
+    "version"   "1.0.0"
+    "menusystem"	"1"
+
+    "author_name"   "Mattymoo142 & Kwigg & Ad1712"
+    "author_email"  "mattymoo142@gmail.com"
+    "author_url"    "http://steamcommunity.com/id/Kwigg/"
+
+	"maps"          "^ttt_"
+	
+    "icon"          ""
+    "info"          ""
+    "hide"          "0"
+}

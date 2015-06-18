@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\AS_VAL_BF4_retour\lense_e"
+        "$translucent" "1"
+	"$bumpmap" "models\weapons\v_models\AS_VAL_BF4_retour\lense_n"
+
+}

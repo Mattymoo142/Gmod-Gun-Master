@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\weapons\v_models\ak5c\bullet_d"
+	"$bumpmap" "models\weapons\v_models\ak5c\bullet_N"
+
+	"$envmap" "env_cubemap"
+	"$basemapalphaenvmapmask" 1
+	"$envmaptint" "[.2 .2 .2]"
+	"$phong" 1
+	"$phongboost" 2
+	"$phongexponenttexture" "models\weapons\v_models\ak5c\bullet_s"
+	"$phongfresnelranges" "[.5 1 0]"
+}

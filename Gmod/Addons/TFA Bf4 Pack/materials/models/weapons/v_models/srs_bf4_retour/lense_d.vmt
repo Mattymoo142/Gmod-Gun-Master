@@ -1,0 +1,12 @@
+Vertexlitgeneric
+{
+
+    // MAIN SETTINGS
+    $basetexture                "models\weapons\v_models\SRS_BF4_RETOUR\lense_d"
+    $bumpmap                    "models\weapons\v_models\SRS_BF4_RETOUR\lense_n"
+    $envmapmask"                "models\weapons\v_models\SRR61_RETOUR\lense_d1"
+    $envmap" "env_cubemap"
+    $normalmapalphaenvmapmask" "1"
+ 
+
+}

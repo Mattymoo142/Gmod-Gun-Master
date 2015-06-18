@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\AS_VAL_BF4_retour\asval_forward_rail_d"
+	"$bumpmap" "models\weapons\v_models\AS_VAL_BF4_retour\asval_forward_rail_n"
+	"$normalmapalphaenvmapmask" "1"
+	"$phongexponent"   "50"
+	"$phong"   "1"
+	"$phongfresnelranges"   "[0.08 0.09 0.02]"
+
+	"$phongboost"   "3"
+
+        "$PhongAlbedoTint"  "1"
+
+	"$PhongExponentTexture" "models\weapons\v_models\AS_VAL_BF4_retour\asval_forward_rail_s"
+  $normalmapalphaphongmask    1
+
+    // ENVIRONMENT REFLECTION
+
+    $envmaptint                 "[.08 .08 .12]"
+    $normalmapalphaenvmapmask   1
+
+}

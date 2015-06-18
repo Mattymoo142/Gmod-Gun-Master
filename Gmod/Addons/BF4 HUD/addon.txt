@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "BATTLEFIELD 4 HUD"
+	"author_name" "Unknown"
+	"info" "[url=https://twitter.com/residualgrub]My Twitter[/url] [url=http://www.youtube.com/user/residualgrubc]My Youtube[/url]  A recreation of the Battlefeild 4 HUD in Garry's Mod  With a functioning minimap! The minimap has basic functions at the moment, I am planing on doing alot more with it.  Note:  The reload icon and the firemode switch indicator will not work for default HL2 weapons because of how they are setup Credits: Main Code: KatBug (ResidualGrub) Base Mini Map Code: Danny Amazing Art: lavadeeto  "
+}

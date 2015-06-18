@@ -1,0 +1,15 @@
+ "vertexlitgeneric"
+{
+	"$basetexture" "models\weapons\v_models\aku12\mount_d"
+	"$bumpmap" "models\weapons\v_models\aku12\mount_n"
+
+$nocull 1
+
+	"$basemapalphaenvmapmask" 1
+	"$envmaptint" "[.2 .2 .2]"
+	"$phong" 1
+	"$phongboost" 2
+	"$phongexponenttexture" "models\weapons\v_models\aku12\mount_s"
+	"$phongfresnelranges" "[.5 1 0]"
+
+}

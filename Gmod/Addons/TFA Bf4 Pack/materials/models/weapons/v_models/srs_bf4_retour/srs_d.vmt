@@ -1,0 +1,17 @@
+Vertexlitgeneric
+{
+
+    // MAIN SETTINGS
+    $basetexture                "models\weapons\v_models\SRS_BF4_RETOUR\srs_d"
+    $bumpmap                    "models\weapons\v_models\SRS_BF4_RETOUR\srs_n"
+
+       // PHONG SHADING
+    $phong                      1
+    $phongboost                 0.48
+    $phongfresnelranges         "[1 4 6]"
+    $phongtint                  "[.8 .8 1]"
+
+    $normalmapalphaphongmask    1
+
+
+}

@@ -1,0 +1,16 @@
+
+"Vertexlitgeneric"
+{
+	"$basetexture" "models\weapons\v_models\AS_VAL_BF4_retour\rifle2"
+	"$bumpmap"    "models\weapons\v_models\AS_VAL_BF4_retour\rifle_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.8 0.4 0.2]"
+	"$model" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "56"
+	"$phongboost"   "1.6"
+	"$phongfresnelranges"   "[1 8 4]"
+}

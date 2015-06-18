@@ -1,0 +1,14 @@
+ "vertexlitgeneric"
+{
+	"$basetexture" "models\weapons\v_models\aku12\bipod_d"
+
+$nocull 1
+
+	"$basemapalphaenvmapmask" 1
+	"$envmaptint" "[.2 .2 .2]"
+	"$phong" 1
+	"$phongboost" 2
+	"$phongexponenttexture" "models\weapons\v_models\aku12\bipod_S"
+	"$phongfresnelranges" "[.5 1 0]"
+
+}

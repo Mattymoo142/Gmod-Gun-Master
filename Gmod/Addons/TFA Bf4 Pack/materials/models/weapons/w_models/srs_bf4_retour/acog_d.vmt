@@ -1,0 +1,8 @@
+Vertexlitgeneric
+{
+
+    // MAIN SETTINGS
+    $basetexture                "models\weapons\v_models\SRS_BF4_RETOUR\acog_d"
+    $bumpmap                    "models\weapons\v_models\SRS_BF4_RETOUR\acog_n"
+
+}
