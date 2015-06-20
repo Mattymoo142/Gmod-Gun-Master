@@ -104,6 +104,7 @@ function GM:PlayerDeath(victim, inflictor, attacker)
     attacker:Give(WeaponList[attacker:GetNWFloat('level', 1) + 1])
     attacker:GiveAmmo(999, weapons.Get(WeaponList[attacker:GetNWFloat('level', 1)]).Primary.Ammo)
     attacker:SetNWFloat('level', attacker:GetNWFloat('level', 1) + 1)
+    --attacker:GivePoints(30, "Nice Kill!") --//If using pointshop, remove the --
     end
 
 
@@ -112,6 +113,7 @@ function GM:PlayerDeath(victim, inflictor, attacker)
         PrintMessage(HUD_PRINTTALK, attacker:Name() .. " Has won! ")
         PrintMessage(HUD_PRINTTALK, "=================================================")
         WeaponList = WepList[math.random(1, #WepList)]
+        --attacker:GivePoints(60, "You Won!") --//If using pointshop, remove the --
         for k, v in pairs(player.GetAll()) do
             v:StripWeapons()
             v:RemoveAllAmmo()
